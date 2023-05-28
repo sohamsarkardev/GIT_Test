@@ -1,0 +1,36 @@
+git config --list
+
+
+git config --global user.name "sohamsarkardev"
+
+
+git config --global user.email "sohamsarkardev@gmail.com"
+
+
+pwd
+
+cd
+
+git init
+
+git status
+
+git add .
+
+git rm --cached <file>
+
+git restore <file>
+
+git commit -m "First commit"
+
+
+git branch dev
+
+git checkout dev
+
+git checkout main
+
+git merge dev
+
+git log
+
